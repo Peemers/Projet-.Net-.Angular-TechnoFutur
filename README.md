@@ -31,6 +31,8 @@ Un véritable outil de gestion d'asso, pas juste le site front :
 
         Modifiable par les admins : si quelqu'un s'inscrit par téléphone, l'admin pourra facilement consommer une place disponible dans la DB.
 
+		Imprimer des tracts normalisés ou non avec les "valeurs" des evenements ?
+
 Publication d'articles ou d'événements
 
 Utilisation de grosses cartes cliquables :
