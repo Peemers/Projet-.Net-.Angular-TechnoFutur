@@ -1,4 +1,4 @@
-# Projet-.Net-.Angular-TechnoFutur
+![ClipWindowsGIF](https://github.com/user-attachments/assets/493372ea-2d97-44b6-af08-1f67ca87dc38)# Projet-.Net-.Angular-TechnoFutur
 Le projet de "fin d'étude" pour TechnoFutur. Un site destiné aux assoss. En tout cas celle dont je fais partie.
 
 "ASBL CONNECT'"
@@ -83,4 +83,5 @@ En tant que rédacteur, je veux glisser-déposer une photo directement dans mon 
 
 En tant que membre, je veux m'inscrire à un événement en ligne et recevoir une confirmation automatique si des places sont encore disponibles
 
-Maintenant je vais tenter de faire un peu d'uml.
+Maintenant je vais tenter de faire un peu d'uml 😂😂
+
