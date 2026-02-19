@@ -1,7 +1,7 @@
 # Projet-.Net-.Angular-TechnoFutur
 Le projet de "fin d'étude" pour TechnoFutur. Un site destiné aux assoss. En tout cas celle dont je fais partie.
 
-
+"ASBL CONNECT'"
 Projet : Site pour l'ASBL Covaldys
 
 Le site actuel est un WordPress pas très "friendly" à utiliser. Les gens qui s'occupent de poster sur le site sont, en plus, très nuls en informatique et c'est galère pour eux.
