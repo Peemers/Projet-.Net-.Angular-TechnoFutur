@@ -1,4 +1,4 @@
-![ClipWindowsGIF](https://github.com/user-attachments/assets/493372ea-2d97-44b6-af08-1f67ca87dc38)# Projet-.Net-.Angular-TechnoFutur
+Projet-.Net-.Angular-TechnoFutur
 Le projet de "fin d'étude" pour TechnoFutur. Un site destiné aux assoss. En tout cas celle dont je fais partie.
 
 "ASBL CONNECT'"
