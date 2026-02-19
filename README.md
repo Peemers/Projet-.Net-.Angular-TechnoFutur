@@ -81,7 +81,6 @@ En tant qu'admin, je veux pouvoir inscrire manuellement quelqu'un qui m'a appel�
 
 En tant que rédacteur, je veux glisser-déposer une photo directement dans mon article pour ne pas avoir à gérer un dossier de médias complexe
 
+En tant que membre, je veux m'inscrire à un événement en ligne et recevoir une confirmation automatique si des places sont encore disponibles
 
 Maintenant je vais tenter de faire un peu d'uml.
-
-En tant que membre, je veux m'inscrire à un événement en ligne et recevoir une confirmation automatique si des places sont encore disponibles
