@@ -47,7 +47,7 @@ Relations et Tables :
 
     Users
 
-    Roles
+    Roles ?
 
     Articles
 
@@ -57,9 +57,9 @@ Relations et Tables :
 
     Documents
 
-    Donations
+    Donations ???
 
-    Settings (pour facilement changer des champs relatifs à l'asso : tel, réseaux sociaux, mail et compagnie).
+    Settings ??? (pour facilement changer des champs relatifs à l'asso : tel, réseaux sociaux, mail et compagnie).
 	
 	
 ------------------------------------------------------------------------------------------
@@ -69,7 +69,7 @@ Acteurs ??
 -auteur/rédacteur
 -visiteurs
 -membres
--développeur ahah
+-développeur ahah ?
 
 
 
